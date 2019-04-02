@@ -16,6 +16,6 @@ function happyHolidayTo(holiday,name){
 happyHolidayTo('birthday','you');
 
 function holidayCountdown(holiday,days){
-  return `It\'s ${days} until ${holiday}!`
+  return `It\'s ${days} days until ${holiday}!`
 }
 holidayCountdown('birthday','7');
