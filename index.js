@@ -6,6 +6,6 @@ happyHolidays();
 
 
 function happyHolidaysTo(name){
-  return ${name};
+  return ${name}
 }
 happyHolidaysTo(you);
